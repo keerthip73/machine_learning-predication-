@@ -1,7 +1,4 @@
 # Student Performance Prediction
-
-<img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
-
 - [Student Performance Prediction](#student-performance-prediction)
   - [Problem Statement](#problem-statement)
   - [Introduction](#introduction)
