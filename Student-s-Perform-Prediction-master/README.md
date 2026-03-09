@@ -1,7 +1,5 @@
 # Student Performance Prediction
 
-<img align="right" 
-
 - [Student Performance Prediction](#student-performance-prediction)
   - [Problem Statement](#problem-statement)
   - [Introduction](#introduction)
