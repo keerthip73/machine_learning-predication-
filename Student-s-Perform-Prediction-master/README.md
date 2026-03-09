@@ -54,8 +54,6 @@ Perform basic troubleshooting steps:
 
 For open source projects,Under MIT License.
 
-## Project status
-
 ## Author
 
 - Project : Student Performance Prediction
