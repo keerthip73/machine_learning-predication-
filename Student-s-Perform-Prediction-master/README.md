@@ -6,11 +6,9 @@
   - [Problem Statement](#problem-statement)
   - [Introduction](#introduction)
   - [How To Run](#how-to-run)
-  - [Contributors](#contributors)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Project status](#project-status)
-  - [Author](#author)
+  
 
 > Student's Performance Prediction Web Application Using Machine Learning Approach
 
@@ -42,14 +40,6 @@ python manage.py createsuperuser
 
 visit <https://localhost:8000> on your pc
 
-## Contributors
-
-
-- [Deepak Raj](https://github.com/shubham5351) - Django, ML, Frontend
-- [Shubham Pawar](https://github.com/shubham5351) - Maintainer, ML Modeling and Analyis
-- [Deepak Kumar](https://github.com/dkpcs92) - ML Modeling and analysis
-- []() - Frontend Part
-
 ## Contributing
 
 Before submitting a bug, please do the following:
@@ -69,7 +59,4 @@ For open source projects,Under MIT License.
 ## Author
 
 - Project : Student Performance Prediction
-- Author  : Py-Contributors
-- Maintainer : Shubham Pawar
 - Language : Python
-- Github : <https://github.com/Py-Contributors/>
